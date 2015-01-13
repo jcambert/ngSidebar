@@ -1,0 +1,2 @@
+# ngSidebar
+Angular Sidebar
